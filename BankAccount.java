@@ -3,7 +3,7 @@ package CODESOFT;
 
    public class BankAccount {
         private double balance;
-    
+      // hello this is ajay model
         public BankAccount(double initialBalance) {
             this.balance = initialBalance;
         }
